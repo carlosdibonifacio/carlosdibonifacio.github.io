@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## About me  
 
 I am a doctoral student in Applied Mathematics at IPP-ENSAE-CREST, under the joint supervision of Prof. Peter Tankov (ENSAE) and Prof. René Aid (PSL Dauphine).
 
