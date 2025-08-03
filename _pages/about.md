@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student in Applied Mathematics at IPP-ENSAE-CREST, under the joint supervision of Prof. Peter Tankov (ENSAE) and Prof. René Aid (PSL Dauphine).
+I am a doctoral student in Applied Mathematics at IP Paris-ENSAE, under the joint supervision of Prof. Peter Tankov (ENSAE) and Prof. René Aid (PSL Dauphine).
 
 I focus on the intersection of mathematics and economics. Specifically, I am interested in the applications of stochastic optimal control theory and partial information tools to approach macroeconomic problems related to climate change and climate policies.
 
