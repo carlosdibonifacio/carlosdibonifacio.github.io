@@ -1,8 +1,5 @@
 ---
-layout: archive
-title: "CV"
+layout: none
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /files/CV.pdf
+redirect_to: /files/CV.pdf
 ---
